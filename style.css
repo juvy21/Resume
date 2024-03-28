@@ -1,0 +1,37 @@
+body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: lightskyblue;
+        
+    }
+    .resume {
+        width: 80%;
+        margin: 0 auto;
+        border: 2px solid #333;
+        padding: 20px;
+        position: center;
+        font-size: 200px;
+    }
+    .border-line {
+        width: 100%;
+        height: 2px;
+        background-color: #F07857;
+        margin: 20px 0;
+    }
+h1{
+	font-family: sans-serif;
+}
+.body{
+	display: flex;
+	justify-items: center;
+	flex-wrap: wrap;
+	background:peachpuff ;
+}
+.body s{
+
+}
+h2{
+	padding-left: 40px
+     
+}
